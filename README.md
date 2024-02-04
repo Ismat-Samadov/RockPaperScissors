@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-This is a simple implementation of the classic Rock, Paper, Scissors game in Java with a graphical user interface (GUI) using JavaFX.
+This is a simple implementation of the classic Rock, Paper, Scissors game with a web-based frontend using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,11 +11,11 @@ This is a simple implementation of the classic Rock, Paper, Scissors game in Jav
 
 ## Introduction
 
-This project provides a basic Rock, Paper, Scissors game with a JavaFX GUI. Players can choose between Rock, Paper, and Scissors, and the computer's move is randomly generated. The result is displayed in a separate window.
+This project provides a basic Rock, Paper, Scissors game with a web-based user interface. Players can choose between Rock, Paper, and Scissors, and the computer's move is randomly generated. The result is dynamically displayed on the webpage.
 
 ## Features
 
-- Graphical User Interface (GUI) using JavaFX.
+- Web-based frontend using HTML, CSS, and JavaScript.
 - Randomly generated computer moves.
 - Simple and interactive gameplay.
 
@@ -23,11 +23,10 @@ This project provides a basic Rock, Paper, Scissors game with a JavaFX GUI. Play
 
 To run the Rock, Paper, Scissors game:
 
-1. Ensure you have Java and JavaFX installed on your machine.
-2. Clone this repository: `git clone https://github.com/Ismat-Samadov/RockPaperScissors.git`
-3. Navigate to the project directory: `cd RockPaperScissors`
-4. Compile the Java code: `javac RockPaperScissorsGUI.java`
-5. Run the application: `java RockPaperScissorsGUI`
+1. Clone this repository: `git clone https://github.com/Ismat-Samadov/RockPaperScissors.git`
+2. Open the `index.html` file in your web browser.
+
+Alternatively, you can host the project on a web server for online access.
 
 ## Game Rules
 
@@ -37,4 +36,4 @@ The game follows the classic Rock, Paper, Scissors rules:
 - Scissors cut Paper.
 - Paper covers Rock.
 
-Choose your move and see if you can beat the computer!
+Choose your move by clicking on the corresponding button, and see if you can beat the computer!
